@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="dbSrc:///c144d960/5bb737ca-b37d-4709-b6ac-c6be9272ef7c" dialect="HSQLDB" />
+  </component>
+</project>

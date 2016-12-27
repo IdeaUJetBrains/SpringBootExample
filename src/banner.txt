@@ -1,0 +1,9 @@
+test
+${application.version}
+${application.formatted-version}
+${application.title}
+${AnsiColor.BRIGHT_GREEN}
+${spring-boot.version}
+${spring-boot.formatted-version}
+${AnsiBackground.BLUE}
+${AnsiStyle.UNDERLINE})

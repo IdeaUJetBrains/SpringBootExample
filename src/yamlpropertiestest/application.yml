@@ -1,0 +1,23 @@
+my:
+   name: 1212
+spring.profiles.active: B
+---
+spring.profiles: A
+version: A
+---
+spring.profiles: B
+version: B
+---
+spring.profiles: C
+version: C
+---
+foo:
+  list:
+    - name: my name
+      description: my description
+---
+spring:
+  profiles: dev
+foo:
+  list:
+    - name: my another name
